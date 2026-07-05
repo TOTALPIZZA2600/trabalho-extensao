@@ -24,3 +24,34 @@ Aqui são apresentados trechos ilustrativos e observações sobre as melhorias a
 <label for="txtHoraFim">Horário de retorno</label>
 <input type="text" value="20:00:00" id="txtHoraFim" />
 
+
+## Observações sobre otimizações aplicadas
+1. **Organização dos cadastros**  
+   → Ajustados módulos de veículos, condutores e contratos para reduzir redundâncias.  
+
+2. **Padronização de relatórios**  
+   → Filtros unificados e exportação de dados melhorada.  
+
+3. **Interface mais acessível**  
+   → Inclusão de alto contraste e ajuste de fonte.  
+
+4. **Integração com Google Maps**  
+   → Itinerários renderizados com coordenadas geográficas.  
+
+5. **Correção de inconsistências**  
+   → Padronização de datas de vigência e horários.  
+
+6. **Melhoria na impressão de lotes**  
+   → Ajustes em CSS para relatórios mais claros.
+
+
+## Resultados
+- Consultas e cadastros mais rápidos e organizados.  
+- Relatórios consistentes e confiáveis para gestores.  
+- Sistema mais acessível para diferentes perfis de usuários.  
+- Visualização de itinerários mais precisa com mapas integrados.  
+- Redução de erros em datas e horários.  
+- Impressões de lotes mais legíveis e profissionais.
+
+
+
