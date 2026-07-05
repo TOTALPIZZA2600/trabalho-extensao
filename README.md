@@ -4,7 +4,7 @@ Otimização do Sistema Estadual do Rio Grande do Sul de Transporte Escolar
 ## Descrição
 Este repositório documenta as atividades realizadas no sistema de transporte escolar da SEDUC-RS.  
 Por questões legais e éticas, o código original não pode ser disponibilizado.  
-Aqui são apresentados trechos ilustrativos e observações sobre as melhorias aplicadas.
+Aqui são apresentados trechos ilustrativos e observações sobre as melhorias aplicadas conforme a proposta do trabalho extensionista.
 
 ## Código Demonstrativo
 ```html
@@ -22,4 +22,5 @@ Aqui são apresentados trechos ilustrativos e observações sobre as melhorias a
 <input type="text" value="17:00:00" id="txtHoraInicio" />
 
 <label for="txtHoraFim">Horário de retorno</label>
-<input type="text" value="00:00:00" id="txtHoraFim" />
+<input type="text" value="20:00:00" id="txtHoraFim" />
+
